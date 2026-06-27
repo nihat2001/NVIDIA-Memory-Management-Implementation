@@ -36,18 +36,6 @@ An advanced, production-grade conversational AI memory management system inspire
 
 ---
 
-## ⚙️ Installation & Setup
-
-Follow these steps to set up the project locally:
-
-| Step | Command / Action |
-| :--- | :--- |
-| **1. Clone the Repository** | `git clone https://github.com/nihat2001/NVIDIA-Memory-Management-Implementation.git`<br>`cd NVIDIA-Memory-Management-Implementation` |
-| **2. Install Dependencies** | `pip install -r requirements.txt` <br>*(Requires: `groq`, `streamlit`, `numpy`, `python-dotenv`)* |
-| **3. Configure Environment** | Create a `.env` file in the root directory and add your API key:<br>`API_KEY=your_groq_api_key_here` |
-
----
-
 ## 💻 Usage
 
 You can run this project using two different interfaces depending on your workflow:
